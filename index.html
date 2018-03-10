@@ -4,26 +4,52 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
     <style type="text/css">
-        #content { height: 100%; width: 100% }
-        .table { display: table; }
-        .td { display: table-cell; vertical-align: middle; text-align: center; }
-        .service-icn { color: #000; text-decoration: none; outline: 0; }
+        body {
+            font-family: 'Raleway', sans-serif;
+        }
+        #content {
+            height: 100%;
+            width: 100%;
+        }
+        .flex {
+            display: flex;
+            flex: 1;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .item {
+            display: inline-flex;
+            text-align: center;
+            padding-bottom: 100px;
+        }
+        .heading {
+            font-size: 2rem;
+        }
+        .service-icn {
+            color: #000;
+            text-decoration: none;
+            outline: 0;
+            font-size: 3rem;
+        }
     </style>
 </head>
 <body>
-<div id="content" class="table">
-    <div class="td">
-      <a class="service-icn fa fa-vk fa-3x" href="https://vk.com/shekhirin"></a>
-      <a class="service-icn fa fa-github fa-3x" href="https://github.com/shekhirin"></a>
-      <a class="service-icn fa fa-facebook fa-3x" href="https://facebook.com/shekhirin"></a>
-      <a class="service-icn fa fa-angellist fa-3x" href="https://angel.co/shekhirin"></a>
-      <br>
-      <br>
-      <a href="tel:+79118722165">+7 (911) 872-21-65</a>
-      <br>
-      <a href="mailto:me@shekhirin.me">me@shekhirin.me</a>
+<div id="content" class="flex">
+    <div class="item heading">
+        <h1>Alexey Shekhirin<h2>
+    </div>
+    <div class="item">
+      <a href="https://vk.com/shekhirin"><i class="service-icn fab fa-vk"></i></a>
+      <a href="https://github.com/shekhirin"><i class="service-icn fab fa-github"></i></a>
+      <a href="https://facebook.com/shekhirin"><i class="service-icn fab fa-facebook"></i></a>
+      <a href="https://angel.co/shekhirin"><i class="service-icn fab fa-angellist"></i></a>
+    </div>
+    <div class="item">
+      <a href="mailto:me@shekhirin.me"><i class="service-icn far fa-envelope"></i></a>
     </div>
 </div>
 <!-- Global site tag (gtag.js) - Google Analytics -->
