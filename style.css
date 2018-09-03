@@ -1,0 +1,52 @@
+.main_photo {
+  width: 15%;
+  white-space: nowrap;
+  float: left;
+  margin-top: 10%;
+}
+
+.lead {
+  margin-top: 10%;
+  margin-left: 3%;
+  display: inline-block;
+}
+
+.projects {
+  margin-top: 2%;
+  width: 80%;
+  float: left;
+}
+
+.vk {
+  background-color: #4680C2;
+  color: white;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.vk img {
+  width: 20%;
+  float: left;
+}
+
+.vk li {
+  margin-left: 20%;
+}
+
+.vk h2 {
+  margin-left: 23%;
+}
+
+.vk-text {
+  display: inline;
+  width: 30%;
+}
+
+.point {
+  margin-top: 2%;
+}
+
+.photo {
+  margin-top: 2%;
+  width: 80%;
+}
