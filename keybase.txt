@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/shekhirin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://shekhirin.com
+  * I am shekhirin (https://keybase.io/shekhirin) on keybase.
+  * I have a public key ASCmHPB66nOUJpvRjQ7gFLsuQu4zCf8dcb3uWLsjV73cgAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a61cf07aea7394269bd18d0ee014bb2e42ee3309ff1d71bdee58bb2357bddc800a",
+      "host": "keybase.io",
+      "kid": "0120a61cf07aea7394269bd18d0ee014bb2e42ee3309ff1d71bdee58bb2357bddc800a",
+      "uid": "bf8164e57ba45528296ab19ce25e6519",
+      "username": "shekhirin"
+    },
+    "merkle_root": {
+      "ctime": 1627297435,
+      "hash": "69a99baf29ad7b0e15af966c6c18d3f0db579b24de67ccafa7c61944826f76207882f443ec775a90ac34d2d05c99eeb53b63b9fe33252df29f521d0562a45b76",
+      "hash_meta": "07b6905c56bd0036d993e38f0b14fb8aa4e623e7aa5600183daca29080769c68",
+      "seqno": 20445809
+    },
+    "service": {
+      "entropy": "8OaKYxI7XUV2Y63gtI6KtvIf",
+      "hostname": "shekhirin.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1627297440,
+  "expire_in": 504576000,
+  "prev": "2520ee94fda140cdd1bea26b35d1822a3f29bb3a9fc102485ac11adadb65fdcc",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgphzweupzlCab0Y0O4BS7LkLuMwn/HXG97li7I1e93IAKp3BheWxvYWTESpcCCcQgJSDulP2hQM3RvqJrNdGCKj8puzqfwQJIWsEa2ttl/czEIOMPWU1FSZklqRp7CpfEjcAu9YGTZ/11RonasG6nTM1RAgHCo3NpZ8RACnYFyNGHITR3SO/urKKNa7oSo0mEmcFsVrS14FFaiKnPCeOJCIIG/pH8D1YlPkLawEbDGRg/t6sEMWJIkRl8C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGsSGkV1m/i+mi7g20DmRNreLWgabXx4j0/SGH63vlweo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shekhirin
+
+==================================================================
